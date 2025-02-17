@@ -26,18 +26,6 @@ cd submission_reminder_[yourname]
 ./startup.sh
 
 
-## Directory Structure
-
-submission_reminder_[yourname]/
-├── config/
-│   └── config.env
-├── modules/
-│   └── functions.sh
-├── assets/
-│   └── submissions.txt
-├── reminder.sh
-└── startup.sh
-
 
 ## Features
 - Checks submission status for assignments
